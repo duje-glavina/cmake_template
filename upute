@@ -1,0 +1,5 @@
+vscode menu: ctrl + shift + p
+cmake build 
+ili cmake clean rebuild
+
+f5 za pokretanje (debug) programa
